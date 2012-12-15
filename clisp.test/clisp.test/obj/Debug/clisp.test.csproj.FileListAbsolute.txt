@@ -1,0 +1,7 @@
+C:\Users\dvilc_000\AppData\Roaming\Local Libraries\Local Documents\lisp-interpreter\clisp.test\clisp.test\bin\Debug\clisp.test.dll
+C:\Users\dvilc_000\AppData\Roaming\Local Libraries\Local Documents\lisp-interpreter\clisp.test\clisp.test\bin\Debug\clisp.test.pdb
+C:\Users\dvilc_000\AppData\Roaming\Local Libraries\Local Documents\lisp-interpreter\clisp.test\clisp.test\bin\Debug\Machine.Specifications.Clr4.dll
+C:\Users\dvilc_000\AppData\Roaming\Local Libraries\Local Documents\lisp-interpreter\clisp.test\clisp.test\bin\Debug\Machine.Specifications.dll
+C:\Users\dvilc_000\AppData\Roaming\Local Libraries\Local Documents\lisp-interpreter\clisp.test\clisp.test\obj\Debug\clisp.test.csprojResolveAssemblyReference.cache
+C:\Users\dvilc_000\AppData\Roaming\Local Libraries\Local Documents\lisp-interpreter\clisp.test\clisp.test\obj\Debug\clisp.test.dll
+C:\Users\dvilc_000\AppData\Roaming\Local Libraries\Local Documents\lisp-interpreter\clisp.test\clisp.test\obj\Debug\clisp.test.pdb
